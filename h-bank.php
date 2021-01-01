@@ -1,3 +1,4 @@
+php h-bank.php
 clear
 blue='\e[1;34m'
 green='\e[1;32m'
