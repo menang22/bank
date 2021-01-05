@@ -1,4 +1,5 @@
-php h-bank.php
+#!/system/xbin/bash
+#Bersihkan Layar
 clear
 blue='\e[1;34m'
 green='\e[1;32m'
